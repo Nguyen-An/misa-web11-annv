@@ -1,0 +1,15 @@
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.deps.json
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.pdb
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.pdb
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.AssemblyReference.cache
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfoInputs.cache
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfo.cs
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CoreCompileInputs.cache
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CopyComplete
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\refint\MISA.QLTS.DL.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.pdb
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\ref\MISA.QLTS.DL.dll
